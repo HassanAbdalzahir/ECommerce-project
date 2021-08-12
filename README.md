@@ -2,7 +2,7 @@
 
 ## Lectures
 >> Lectures and Apllying.
-- [] Lecture-1
+- [x] Lecture-1
 - [] Lecture-2
 - [] Lecture-3
 - [] Lecture-4
